@@ -1,0 +1,17 @@
+h1,
+ul li {
+    color: green;
+    font-size: 36pt;
+}
+
+ol li {
+    color: red
+}
+
+.pasha {
+    font-style: italic;
+}
+
+#firstParagraph {
+    background-color: yellow;
+}
