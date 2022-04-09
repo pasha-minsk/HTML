@@ -1,0 +1,105 @@
+ul,
+h2 {
+    margin: 0px;
+    padding: 0px;
+}
+
+#tabl {
+    border: 1px solid black;
+    margin: 0pt auto;
+    width: 1100px;
+    position: relative;
+}
+
+header {
+    min-height: 250px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+#into {
+    top: 50px;
+    left: 235px;
+    position: absolute;
+    border: 1px solid black;
+}
+
+#into li {
+    float: left;
+    list-style-type: none;
+}
+
+#into a:link,
+#into a:visited {
+    color: blue;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 30px;
+    padding: 0px 10px;
+}
+
+#into a:hover,
+#into a.active {
+    text-decoration: underline;
+    color: red;
+}
+
+#spirit {
+    top: 5px;
+    left: 5px;
+    position: absolute;
+}
+
+#adres {
+    top: 15px;
+    left: 235px;
+    position: absolute;
+}
+
+#sitbarR,
+#sitbarL {
+    outline: 1px solid black;
+    width: 200px;
+    height: 750px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#sitbarL {
+    float: left;
+}
+
+#sitbarR {
+    float: right;
+}
+
+#sitbarL div {
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+main {
+    margin: 0px 240px;
+    outline: 1px solid black;
+    height: 750px;
+    padding: 0px 20px;
+    text-align: justify;
+}
+
+footer {
+    border: 1px solid black;
+    margin-top: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 16pt;
+    padding-top: 180px;
+    vertical-align: bottom;
+}
+
+#clear {
+    clear: both;
+}
