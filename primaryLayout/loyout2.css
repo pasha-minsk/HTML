@@ -1,0 +1,30 @@
+    #tabl {
+        width: 1100px;
+        margin: 10px auto;
+        height: 1100px;
+    }
+    
+    #header {
+        width: 1100px;
+        float: left;
+        height: 200px;
+    }
+    
+    #content {
+        width: 1100px;
+        float: left;
+        height: 700px;
+    }
+    
+    #footer {
+        width: 1100px;
+        float: left;
+        height: 200px;
+    }
+    
+    #tabl,
+    #header,
+    #content,
+    #footer {
+        outline: 1px solid black;
+    }
