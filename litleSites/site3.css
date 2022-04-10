@@ -1,0 +1,102 @@
+body {
+    background-color: rgb(228, 232, 240);
+}
+
+#box {
+    width: 900px;
+    margin: 30px auto;
+    background-color: white;
+    /* border: 1px solid black; */
+}
+
+header {
+    width: 900px;
+    border: 1px solid rgb(253, 187, 5);
+    background-color: rgb(248, 186, 14);
+    /* margin-bottom: 5px; */
+}
+
+#menu li {
+    margin-right: 30px;
+    line-height: 15px;
+    margin-bottom: 15px;
+    float: left;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+#menu ul {
+    padding-left: 20px;
+}
+
+#clean {
+    clear: both;
+}
+
+#menu a {
+    color: white;
+}
+
+#menu a:active,
+#menu a:link {
+    text-decoration: none;
+}
+
+#menu a:hover,
+#line {
+    text-decoration: underline;
+}
+
+aside {
+    width: 230px;
+    float: right;
+    text-align: justify;
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 12px;
+    margin-top: 0px;
+}
+
+aside h4 {
+    font-size: 18px;
+    margin-bottom: 0px;
+}
+
+main {
+    margin-right: 270px;
+    margin-left: 20px;
+    text-align: justify;
+}
+
+main table {
+    width: 100%;
+}
+
+main table td,
+th {
+    text-align: center;
+}
+
+td,
+th {
+    border: 1px solid black;
+}
+
+th {
+    background-color: rgb(205, 219, 243);
+}
+
+main img {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+footer {
+    border: 0px solid rgb(253, 187, 5);
+    background-color: rgb(253, 187, 5);
+    height: 70px;
+    text-align: center;
+    font-size: 13px;
+    color: white;
+    line-height: 70px;
+}
