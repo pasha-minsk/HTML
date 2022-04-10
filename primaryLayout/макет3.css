@@ -1,0 +1,37 @@
+#tabl {
+    width: 1100px;
+    height: 1300px;
+    margin: 10px auto;
+}
+
+header {
+    width: 1100px;
+    float: left;
+    height: 300px;
+}
+
+aside {
+    width: 300px;
+    float: left;
+    height: 700px;
+}
+
+main {
+    width: 800px;
+    height: 700px;
+    float: left;
+}
+
+footer {
+    width: 1100px;
+    float: left;
+    height: 300px
+}
+
+#tabl,
+header,
+aside,
+main,
+footer {
+    outline: 1px solid black;
+}
