@@ -1,0 +1,219 @@
+body,
+ul,
+h2,
+p {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    margin-top: 20px;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: rgb(236, 228, 236);
+    /* display: block; */
+}
+
+#name {
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 50px;
+}
+
+#menuof,
+#fon1,
+#box {
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.left {
+    color: rgb(180, 6, 6);
+    font-size: 25pt;
+    text-align: left;
+    margin-left: 0;
+    float: left;
+}
+
+header .right {
+    color: rgb(180, 6, 6);
+    text-align: right;
+    margin-right: 0;
+    /* margin-top: 0; */
+    padding-top: 0px;
+    float: right;
+}
+
+#fon {
+    background-color: rgb(180, 6, 6);
+}
+
+#menuon a {
+    color: white;
+    font-size: 14pt;
+    padding: 0px 20px;
+    display: block;
+    /* line-height: 60px; */
+}
+
+#menuof a:link,
+#menuof a:active {
+    text-decoration: none;
+    color: white;
+}
+
+#menuon a:hover,
+#menuon .on {
+    background-color: rgb(139, 8, 8);
+}
+
+#menuon li {
+    display: inline-block;
+    line-height: 50px;
+}
+
+#menuon ul {
+    font-size: 0;
+}
+
+#menu1 li {
+    float: left;
+    list-style: none;
+    line-height: 30px;
+    padding-bottom: 5px;
+}
+
+#menu1 ul {
+    margin-left: 50px;
+}
+
+#menu1 a {
+    margin-right: 40px;
+    color: rgb(126, 119, 119);
+}
+
+#menu1 a:hover {
+    text-decoration: none;
+}
+
+#menuR {
+    float: right;
+    line-height: 30px;
+    color: rgb(126, 119, 119);
+}
+
+#menuR a {
+    color: rgb(126, 119, 119);
+}
+
+#menuR a:hover {
+    text-decoration: none;
+}
+
+#box {
+    background-color: white;
+    padding: 20px 0px 40px;
+}
+
+#contentR {
+    float: right;
+    width: 250px;
+    text-align: justify;
+}
+
+img {
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    margin-bottom: 10px;
+    font-size: 13pt;
+}
+
+#box li {
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+#contentR {
+    font-size: 12px;
+}
+
+#contentL {
+    float: left;
+    width: 570px;
+    font-size: 12pt;
+    text-align: justify;
+}
+
+#contentL h2 {
+    font-size: 15pt;
+    margin-top: 10px;
+}
+
+aside {
+    margin-left: 590px;
+    margin-right: 270px;
+    text-align: justify;
+    font-size: 12px;
+}
+
+footer {
+    background-color: rgb(243, 243, 243);
+    width: 100%;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+
+footer #niz {
+    width: 1100px;
+    margin: 0px auto;
+}
+
+#nizL p {
+    margin-bottom: 10px;
+}
+
+#nizL {
+    width: 200px;
+    float: left;
+}
+
+#nizL a {
+    color: rgb(126, 119, 119);
+}
+
+#nizL a:link,
+#nizL a:visited {
+    text-decoration: none;
+}
+
+#nizL a:hover {
+    text-decoration: underline;
+}
+
+#nizC {
+    float: left;
+    text-align: center;
+    font-size: 8pt;
+    color: rgb(126, 119, 119);
+    margin-left: 60px;
+}
+
+hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#nizC p {
+    margin-bottom: 3px;
+}
+
+.clean {
+    clear: both;
+}
