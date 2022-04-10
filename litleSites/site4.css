@@ -1,0 +1,147 @@
+body,
+ul,
+p {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(230, 230, 230);
+}
+
+header {
+    background-color: rgb(63, 57, 57);
+    min-width: 1100px;
+}
+
+#menu {
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#menu ul {
+    font-size: 0px;
+    /* убирает промежутки между подсветами ссылок при наведении на них курсора*/
+}
+
+#menu li {
+    display: inline-block;
+    line-height: 50px;
+}
+
+#menu a {
+    display: block;
+    color: white;
+    font-size: 19px;
+    padding: 0px 20px;
+}
+
+#menu a:link,
+#menu a:active {
+    text-decoration: none;
+}
+
+#menu a:hover,
+#menu .first {
+    background-color: rgb(156, 155, 155);
+}
+
+#box {
+    background-color: white;
+    width: 1100px;
+    margin: 30px auto;
+    /* height: 2090px; */
+}
+
+#L,
+#R {
+    width: 200px;
+}
+
+#L p,
+#R p,
+main p {
+    margin-bottom: 10px;
+}
+
+#L {
+    float: left;
+    padding-left: 20px;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+#R {
+    float: right;
+    padding-right: 20px;
+    text-align: justify;
+}
+
+#L,
+#R {
+    text-align: justify;
+    font-size: 10pt;
+    margin-top: 10px;
+    list-style-type: none;
+}
+
+main {
+    padding-top: 1px;
+    padding-left: 240px;
+    padding-right: 240px;
+    text-align: justify;
+    font-size: 13.5pt;
+}
+
+.clean {
+    clear: both;
+}
+
+footer {
+    background-color: #242424;
+    min-width: 1100px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    font-size: 13px;
+    text-align: center;
+}
+
+#menuof {
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#menuin>div {
+    float: left;
+    width: 24%;
+    min-height: 200px;
+    margin-right: 1.3333%;
+    background-color: aliceblue;
+    color: black;
+}
+
+#menuin>div>div {
+    padding: 10px;
+}
+
+#menuin div.rightnon {
+    margin-right: 0;
+}
+
+#end {
+    margin-bottom: 3px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+}
