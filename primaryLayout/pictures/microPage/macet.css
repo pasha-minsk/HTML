@@ -1,0 +1,174 @@
+body {
+    background-color: #B17E4F;
+    margin: 0;
+    padding: 0;
+}
+
+#up {
+    width: 950px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 37px;
+    margin-top: 67px;
+}
+
+#upl {
+    float: left;
+    color: white;
+    font-size: 33pt;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+#upr {
+    float: right;
+    color: rgba(255, 255, 255, 0.76);
+    font-size: 11pt;
+    margin-right: 20px;
+}
+
+#box {
+    width: 928px;
+    background-color: white;
+    margin: 10px auto 40px;
+    padding: 15px;
+}
+
+#menu {
+    background-color: black;
+}
+
+#menu ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#menu li {
+    flex: 1;
+}
+
+#menu a {
+    color: white;
+    text-decoration: none;
+    font-size: 10pt;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    padding: 20px 0;
+}
+
+#menu a:hover,
+#menu .on {
+    background-color: #1B3039;
+}
+
+header #img {
+    margin-top: 15px;
+}
+
+main {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+    width: 570px;
+    float: left;
+}
+
+#big a {
+    color: #B17E4F;
+    font-size: 30pt;
+    font-weight: bold;
+}
+
+main div p {
+    margin: 0;
+    padding: 0;
+}
+
+.smol {
+    font-size: 10pt;
+    color: #96AE3E;
+}
+
+a {
+    text-decoration: none;
+}
+
+span {
+    font-size: 10pt;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+main ul li {
+    margin-top: 40px;
+    text-align: justify;
+    font: 10pt/2 Arial;
+}
+
+aside {
+    margin: 20px 0 0 630px;
+    /* padding: 8px; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+aside>div {
+    padding: 8px;
+    margin-bottom: 20px;
+    background-color: #EFEDE5;
+}
+
+div #hed {
+    color: white;
+    background-color: #5D9EBD;
+    line-height: 40px;
+    padding-left: 15px;
+    font-size: 15pt;
+}
+
+#list ul {
+    margin-top: 20px;
+}
+
+#list li {
+    padding-left: 15px;
+    font-size: 10px;
+}
+
+#list hr {
+    color: #e0dfdb;
+    border: none;
+    background-color: #e0dfdb;
+    height: 1px;
+    margin: 10px 0;
+}
+
+#list {
+    padding-bottom: 5px;
+}
+
+aside p {
+    font: 10pt/2 Arial;
+    margin-left: 15px;
+}
+
+footer {
+    line-height: 70px;
+    text-align: center;
+    background-color: #D1E4A7;
+    margin: 50px 0px 10px 0px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.clean {
+    clear: both;
+}
