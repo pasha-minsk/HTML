@@ -1,0 +1,72 @@
+    #box {
+        outline: 1px solid black;
+        width: 1100px;
+        margin: 0px auto;
+        padding: 40px;
+    }
+    
+    #topL {
+        outline: 1px solid black;
+        float: left;
+        width: 200px;
+        height: 200px;
+    }
+    
+    #topR {
+        outline: 1px solid black;
+        float: right;
+        width: 200px;
+        height: 200px;
+    }
+    
+    #topC {
+        outline: 1px solid black;
+        margin: 0px 240px;
+        height: 200px;
+    }
+    
+    #mainL {
+        outline: 1px solid black;
+        float: left;
+        width: 200px;
+        height: 400px;
+        margin: 40px 0px;
+    }
+    
+    #mainR {
+        outline: 1px solid black;
+        float: right;
+        width: 200px;
+        height: 400px;
+        margin: 40px 0px;
+    }
+    
+    #mainC {
+        outline: 1px solid black;
+        margin: 40px 240px;
+        height: 400px;
+    }
+    
+    #footerL {
+        outline: 1px solid black;
+        float: left;
+        width: 200px;
+        height: 200px;
+    }
+    
+    #footerR {
+        outline: 1px solid black;
+        float: right;
+        width: 200px;
+        height: 200px;
+    }
+    
+    #footerC {
+        outline: 1px solid black;
+        margin: 0px 240px;
+        height: 200px;
+    }
+    
+    #clear {
+        clear: both;
+    }
