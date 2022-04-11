@@ -1,0 +1,38 @@
+#tabl {
+    width: 1000px;
+    margin: 0px auto;
+    outline: 1px solid black;
+}
+
+header {
+    height: 200px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+#sidbarL,
+#sidbarR {
+    width: 200px;
+    height: 500px;
+    outline: 1px solid black;
+}
+
+#sidbarL {
+    float: left;
+}
+
+#sidbarR {
+    float: right;
+}
+
+main {
+    height: 500px;
+    outline: 1px solid black;
+    margin: 0px 220px;
+}
+
+footer {
+    height: 200px;
+    border: 1px solid black;
+    margin-top: 20px;
+}
