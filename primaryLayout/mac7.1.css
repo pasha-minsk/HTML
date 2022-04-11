@@ -1,0 +1,43 @@
+#box {
+    outline: 1px solid black;
+    width: 1000px;
+    padding: 40px;
+    margin: 0px auto;
+}
+
+header>div {
+    height: 200px;
+    margin-bottom: 40px;
+}
+
+main>div {
+    height: 500px;
+    margin-bottom: 40px;
+}
+
+footer>div {
+    height: 200px;
+}
+
+.left,
+.right {
+    outline: 1px solid black;
+    width: 200px;
+}
+
+.center {
+    margin: 0px 240px;
+    outline: 1px solid black;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
