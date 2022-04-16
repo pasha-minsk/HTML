@@ -8,4 +8,7 @@
 // message="Hello";
 // console. log(message);
 // let message="Hello";
-// let message="Hello";
+
+
+// let message="Hello";// тип данных namber это числа до (253-1) (т. е. 9007199254740991), или меньше, чем -(253-1) для отрицательных чисел
+// message=34567;
