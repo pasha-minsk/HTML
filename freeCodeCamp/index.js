@@ -21,3 +21,6 @@ c /= 11;
 const goodStr = 'Jake asks Finn, "Hey, let\'s go on an adventure?"';
 
 const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; //\n newline,\t tab,\n newline
+
+const myName = "Pasha";
+const myStr = "My name is " + myName + "and I am well!";
