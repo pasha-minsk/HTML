@@ -24,3 +24,8 @@ const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; //\n newline,\t tab,\n new
 
 const myName = "Pasha";
 const myStr = "My name is " + myName + "and I am well!";
+
+let firstLetterOfLastName = "";
+const lastName = "Lovelace";
+// Only change code below this line
+firstLetterOfLastName = lastName[0]; // Change this line
