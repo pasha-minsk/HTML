@@ -48,3 +48,9 @@ const myArray = [
     ["cat", 2]
 ];
 let removedFromMyArray = myArray.pop();
+
+const myArray = [
+    ["John", 23],
+    ["dog", 3]
+];
+let removedFromMyArray = myArray.shift()
