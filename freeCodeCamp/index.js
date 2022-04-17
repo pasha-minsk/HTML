@@ -17,3 +17,7 @@ c *= 10;
 a /= 12;
 b /= 4;
 c /= 11;
+
+const goodStr = 'Jake asks Finn, "Hey, let\'s go on an adventure?"';
+
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; //\n newline,\t tab,\n newline
