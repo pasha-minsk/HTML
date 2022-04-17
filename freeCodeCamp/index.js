@@ -36,3 +36,9 @@ const lastName = "Lovelace";
 const lastLetterOfLastName = lastName[lastName.length - 1]; // Change this line
 
 const myArray = ['Haloy World', 777];
+
+const myArray = [
+    ["John", 23],
+    ["cat", 2]
+];
+myArray.push(["dog", 3])
