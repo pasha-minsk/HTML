@@ -61,3 +61,8 @@ const myArray = [
 ];
 myArray.shift();
 myArray.unshift(["Paul", 35])
+
+function functionWithArgs(arg1, arg2) {
+    console.log(arg1 + arg2);
+}
+functionWithArgs(3, 4)
