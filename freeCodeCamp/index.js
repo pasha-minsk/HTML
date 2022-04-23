@@ -352,3 +352,15 @@ const testObj = {
 
 const entreeValue = testObj["an entree"]; // Change this line
 const drinkValue = testObj["the drink"];
+
+
+const myDog = {
+    "name": "Happy Coder",
+    "legs": 4,
+    "tails": 1,
+    "friends": ["freeCodeCamp Campers"],
+    "bark": "woof"
+};
+
+// Only change code below this line
+delete myDog.tails
