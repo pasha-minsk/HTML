@@ -322,3 +322,13 @@ cc(3);
 cc(7);
 cc('K');
 cc('A');
+
+
+const myDog = {
+
+    'name': "Richi",
+    'legs': 4,
+    'tails': 1,
+    'friends': ['bear, monky, dogs']
+
+};
